@@ -18,45 +18,5 @@
   {
     "label": "Contempt",
     "value": "contempt"
-  },
-  {
-    "label": "Disgust",
-    "value": "disgust"
-  },
-  {
-    "label": "Excitement",
-    "value": "excitement"
-  },
-  {
-    "label": "Fear",
-    "value": "fear"
-  },
-  {
-    "label": "Frustration",
-    "value": "frustration"
-  },
-  {
-    "label": "Guilt",
-    "value": "guilt"
-  },
-  {
-    "label": "Hope",
-    "value": "hope"
-  },
-  {
-    "label": "Joy",
-    "value": "joy"
-  },
-  {
-    "label": "Pride",
-    "value": "pride"
-  },
-  {
-    "label": "Sadness",
-    "value": "sadness"
-  },
-  {
-    "label": "Surprise",
-    "value": "surprise"
   }
 ]
